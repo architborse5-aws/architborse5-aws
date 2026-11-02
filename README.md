@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **ORION – Cloud Infrastructure & Automation Platform<br><br>👯 I’m looking to collaborate on **AWS, Cloud Computing, and DevOps projects<br><br>🤝 I’m looking for help with **Advanced AWS, CI/CD pipelines, and Cloud Security<br><br>🌱 I’m currently learning **AWS, Linux, Docker, Kubernetes, and DevOps<br><br>💬 Ask me about **AWS EC2, Linux, EBS, Nginx, and Cloud Infrastructure<br><br>⚡ Fun fact: **I love building real-world cloud projects and turning ideas into working solutions!
+🔭 I’m currently working on ORION – Cloud Infrastructure & Automation Platform<br><br>👯 I’m looking to collaborate on AWS, Cloud Computing, and DevOps projects<br><br>🤝 I’m looking for help with Advanced AWS, CI/CD pipelines, and Cloud Security<br><br>🌱 I’m currently learning AWS, Linux, Docker, Kubernetes, and DevOps<br><br>💬 Ask me about AWS EC2, Linux, EBS, Nginx, and Cloud Infrastructure<br><br>⚡ Fun fact: I love building real-world cloud projects and turning ideas into working solutions!
 
 
 ## 🌐 Socials:
